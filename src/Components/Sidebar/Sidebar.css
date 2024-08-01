@@ -1,6 +1,6 @@
 .sidebar {
 	min-height: 100vh;
-	display:inline-flex;
+	display: inline-flex;
 	flex-direction: column;
 	justify-content: space-between;
 	background-color: #f0f4f9;
@@ -17,8 +17,8 @@
 	display: block;
 	margin-left: 10px;
 	cursor: pointer;
-} 
- .sidebar .new-chat{
+}
+.sidebar .new-chat{
  margin-top: 50px;
  display: inline-flex;
  align-items: center;
@@ -30,12 +30,11 @@
  color: grey;
  cursor: pointer;
 }
-
 .sidebar .recent{
     display: flex;
     flex-direction: column;
     animation: fadeIn 2.0s;
-} 
+}
 .sidebar .recent-title{
     margin-top: 30px;
     margin-bottom: 20px;
